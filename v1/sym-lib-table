@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name pyboard-eagle-import)(type Legacy)(uri ${KIPRJMOD}/pyboard-eagle-import.lib)(options "")(descr ""))
+)

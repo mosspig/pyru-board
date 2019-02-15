@@ -1,0 +1,1950 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr User 15734 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5200 2700 4400 2700
+Wire Wire Line
+	4400 2700 4400 2000
+Wire Wire Line
+	4400 2000 4400 1900
+Wire Wire Line
+	4400 1900 5200 1900
+Wire Wire Line
+	5200 2000 4400 2000
+Connection ~ 4400 2000
+Connection ~ 4400 2700
+Text Label 5200 2700 0    10   ~ 0
+GND
+Wire Wire Line
+	2100 1800 2100 1700
+Wire Wire Line
+	1700 1800 2100 1800
+Wire Wire Line
+	1700 1700 1700 1800
+Wire Wire Line
+	1300 1800 1700 1800
+Wire Wire Line
+	1300 1700 1300 1800
+Wire Wire Line
+	900  1700 900  1800
+Wire Wire Line
+	900  1800 1300 1800
+Wire Wire Line
+	900  1800 900  1900
+Wire Wire Line
+	2100 1800 2500 1800
+Wire Wire Line
+	2500 1800 2500 1700
+Connection ~ 1700 1800
+Connection ~ 1300 1800
+Connection ~ 900  1800
+Connection ~ 2100 1800
+Text Label 2100 1800 0    10   ~ 0
+GND
+Wire Wire Line
+	3000 1700 3000 1900
+Text Label 3000 1700 0    10   ~ 0
+GND
+Wire Wire Line
+	3500 1700 3500 1800
+Wire Wire Line
+	3900 1700 3900 1800
+Wire Wire Line
+	3900 1800 3500 1800
+Wire Wire Line
+	3500 1900 3500 1800
+Connection ~ 3500 1800
+Text Label 3500 1700 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 3600 3200 3500
+Wire Wire Line
+	3200 3500 3200 3200
+Wire Wire Line
+	3200 3200 3300 3200
+Wire Wire Line
+	3300 3500 3200 3500
+Connection ~ 3200 3500
+Text Label 3200 3600 0    10   ~ 0
+GND
+Wire Wire Line
+	1600 5800 1600 5700
+Text Label 1600 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	900  5800 900  5400
+Wire Wire Line
+	900  5400 900  5300
+Connection ~ 900  5400
+Text Label 900  5800 0    10   ~ 0
+GND
+Wire Wire Line
+	3600 2700 3600 2600
+Text Label 3600 2700 0    10   ~ 0
+GND
+Wire Wire Line
+	2900 5800 2900 5400
+Wire Wire Line
+	2900 5400 2900 5300
+Connection ~ 2900 5400
+Text Label 2900 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	4800 6500 4200 6500
+Wire Wire Line
+	4200 6500 4200 6800
+Text Label 4800 6500 0    10   ~ 0
+GND
+Wire Wire Line
+	9600 6400 9700 6400
+Wire Wire Line
+	9700 6400 9700 6800
+Wire Wire Line
+	9600 6200 9700 6200
+Wire Wire Line
+	9700 6200 9700 6400
+Connection ~ 9700 6400
+Text Label 9600 6400 0    10   ~ 0
+GND
+Wire Wire Line
+	8300 6200 8200 6200
+Wire Wire Line
+	8200 6200 8200 6300
+Wire Wire Line
+	8200 6300 8200 6500
+Wire Wire Line
+	8200 6500 8200 6800
+Wire Wire Line
+	8300 6300 8200 6300
+Wire Wire Line
+	8300 6500 8200 6500
+Connection ~ 8200 6300
+Connection ~ 8200 6500
+Text Label 8300 6200 0    10   ~ 0
+GND
+Wire Wire Line
+	6900 6600 6900 6400
+Text Label 6900 6600 0    10   ~ 0
+GND
+Wire Wire Line
+	12000 2800 11200 2800
+Text Label 11200 2800 0    70   ~ 0
+GND
+Wire Wire Line
+	4000 2700 4000 2600
+Text Label 4000 2700 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 4500 3200 4400
+Wire Wire Line
+	3200 4400 3200 4100
+Wire Wire Line
+	3200 4100 3300 4100
+Wire Wire Line
+	3300 4400 3200 4400
+Connection ~ 3200 4400
+Text Label 3200 4500 0    10   ~ 0
+GND
+Wire Wire Line
+	10200 1100 10100 1100
+Wire Wire Line
+	10100 1100 10100 1400
+Text Label 10200 1100 0    10   ~ 0
+GND
+Wire Wire Line
+	11300 1500 11300 1400
+Text Label 11300 1500 0    10   ~ 0
+GND
+Wire Wire Line
+	1900 7000 1800 7000
+Wire Wire Line
+	1900 6200 1800 6200
+Wire Wire Line
+	1800 6200 1800 6400
+Wire Wire Line
+	1800 6400 1800 6600
+Wire Wire Line
+	1800 6600 1800 6800
+Wire Wire Line
+	1800 6800 1800 7000
+Wire Wire Line
+	1800 7000 1800 7200
+Wire Wire Line
+	1800 6800 2100 6800
+Wire Wire Line
+	1800 6600 1900 6600
+Wire Wire Line
+	1800 6400 2100 6400
+Connection ~ 1800 6400
+Connection ~ 1800 6600
+Connection ~ 1800 6800
+Connection ~ 1800 7000
+Text Label 1900 7000 0    10   ~ 0
+GND
+Wire Wire Line
+	10000 2000 9900 2000
+Wire Wire Line
+	9900 2000 9900 2600
+Text Label 10000 2000 0    10   ~ 0
+GND
+Wire Wire Line
+	14100 2800 14900 2800
+Text Label 14400 2800 0    70   ~ 0
+GND
+Wire Wire Line
+	13100 4300 12800 4300
+Wire Wire Line
+	12800 4300 12800 4400
+Wire Wire Line
+	12800 4400 12800 4500
+Wire Wire Line
+	12800 4500 12800 4600
+Wire Wire Line
+	12800 4600 12800 4800
+Wire Wire Line
+	13100 4600 12800 4600
+Wire Wire Line
+	13100 4500 12800 4500
+Wire Wire Line
+	13100 4400 12800 4400
+Text Label 12800 4800 1    70   ~ 0
+GND
+Connection ~ 12800 4600
+Connection ~ 12800 4500
+Connection ~ 12800 4400
+Wire Wire Line
+	7300 6400 7300 6600
+Text Label 7300 6400 0    10   ~ 0
+GND
+Wire Wire Line
+	5200 2600 4700 2600
+Wire Wire Line
+	5200 2500 4700 2500
+Wire Wire Line
+	4700 2600 4700 2500
+Wire Wire Line
+	5200 1700 4700 1700
+Wire Wire Line
+	4700 2500 4700 1700
+Wire Wire Line
+	5200 1600 4700 1600
+Wire Wire Line
+	4700 1700 4700 1600
+Wire Wire Line
+	5200 1500 4700 1500
+Wire Wire Line
+	4700 1600 4700 1500
+Wire Wire Line
+	5200 1400 4700 1400
+Wire Wire Line
+	4700 1500 4700 1400
+Wire Wire Line
+	4700 1400 4700 1200
+Connection ~ 4700 1400
+Connection ~ 4700 1500
+Connection ~ 4700 1600
+Connection ~ 4700 1700
+Connection ~ 4700 2500
+Text Label 5200 2600 0    10   ~ 0
++3V3
+Wire Wire Line
+	900  1200 900  1300
+Wire Wire Line
+	2100 1400 2100 1300
+Wire Wire Line
+	2100 1300 1700 1300
+Wire Wire Line
+	1700 1400 1700 1300
+Wire Wire Line
+	1700 1300 1300 1300
+Wire Wire Line
+	1300 1400 1300 1300
+Wire Wire Line
+	1300 1300 900  1300
+Wire Wire Line
+	900  1300 900  1400
+Wire Wire Line
+	2100 1300 2500 1300
+Wire Wire Line
+	2500 1300 2500 1400
+Connection ~ 1700 1300
+Connection ~ 1300 1300
+Connection ~ 900  1300
+Connection ~ 2100 1300
+Text Label 900  1200 0    10   ~ 0
++3V3
+Wire Wire Line
+	3000 1200 3000 1400
+Text Label 3000 1200 0    10   ~ 0
++3V3
+Wire Wire Line
+	3500 1400 3500 1300
+Wire Wire Line
+	3500 1300 3900 1300
+Wire Wire Line
+	3900 1400 3900 1300
+Wire Wire Line
+	3500 1300 3500 1200
+Connection ~ 3500 1300
+Text Label 3500 1400 0    10   ~ 0
++3V3
+Wire Wire Line
+	1600 4700 1600 4800
+Text Label 1600 4700 0    10   ~ 0
++3V3
+Wire Wire Line
+	900  2600 900  2900
+Wire Wire Line
+	900  2900 1000 2900
+Wire Wire Line
+	900  2900 900  3200
+Wire Wire Line
+	900  3200 1000 3200
+Wire Wire Line
+	900  3200 900  3500
+Wire Wire Line
+	900  3500 900  3800
+Connection ~ 900  3500
+Connection ~ 900  3200
+Connection ~ 900  2900
+Text Label 900  2600 0    10   ~ 0
++3V3
+Wire Wire Line
+	4800 6300 4200 6300
+Wire Wire Line
+	4200 6300 4200 6000
+Text Label 4800 6300 0    10   ~ 0
++3V3
+Wire Wire Line
+	9600 6300 9800 6300
+Wire Wire Line
+	9800 6300 9800 5900
+Text Label 9600 6300 0    10   ~ 0
++3V3
+Wire Wire Line
+	6900 5900 6900 6100
+Text Label 6900 5900 0    10   ~ 0
++3V3
+Wire Wire Line
+	10100 5900 10100 6000
+Text Label 10100 5900 0    10   ~ 0
++3V3
+Wire Wire Line
+	10300 5900 10300 6000
+Text Label 10300 5900 0    10   ~ 0
++3V3
+Wire Wire Line
+	12000 2700 11200 2700
+Text Label 11200 2700 0    70   ~ 0
++3V3
+Wire Wire Line
+	11700 1000 11700 900 
+Wire Wire Line
+	11000 1000 11300 1000
+Wire Wire Line
+	11300 1000 11300 1100
+Wire Wire Line
+	11300 1000 11700 1000
+Connection ~ 11300 1000
+Text Label 11700 1000 0    10   ~ 0
++3V3
+Wire Wire Line
+	12000 4700 11200 4700
+Text Label 11200 4700 0    70   ~ 0
++3V3
+Wire Wire Line
+	5200 2200 3600 2200
+Wire Wire Line
+	3600 2300 3600 2200
+Wire Wire Line
+	5200 2300 4000 2300
+Wire Wire Line
+	10000 2200 9600 2200
+Wire Wire Line
+	7900 2300 8900 2300
+Text Label 8000 2300 0    70   ~ 0
+FS_DM
+Wire Wire Line
+	7900 2200 9200 2200
+Text Label 8000 2200 0    70   ~ 0
+FS_DP
+Wire Wire Line
+	5200 3300 4100 3300
+Wire Wire Line
+	4100 3300 4100 3500
+Wire Wire Line
+	4100 3500 3800 3500
+Wire Wire Line
+	3800 3500 3600 3500
+Connection ~ 3800 3500
+Wire Wire Line
+	5200 3400 4600 3400
+Text Label 4600 3400 0    70   ~ 0
+SDIO_CMD
+Wire Wire Line
+	4800 6200 4400 6200
+Text Label 4400 6200 0    70   ~ 0
+SDIO_CMD
+Wire Wire Line
+	5200 4300 4600 4300
+Text Label 4600 4300 0    70   ~ 0
+SDIO_D2
+Wire Wire Line
+	4800 6000 4400 6000
+Text Label 4400 6000 0    70   ~ 0
+SDIO_D2
+Wire Wire Line
+	5200 4200 4600 4200
+Text Label 4600 4200 0    70   ~ 0
+SDIO_D3
+Wire Wire Line
+	4800 6100 4400 6100
+Text Label 4400 6100 0    70   ~ 0
+SDIO_D3
+Wire Wire Line
+	2300 6600 3000 6600
+Text Label 2600 6600 0    70   ~ 0
+SDIO_D3
+Wire Wire Line
+	5200 4100 4600 4100
+Text Label 4600 4100 0    70   ~ 0
+SDIO_CK
+Wire Wire Line
+	4800 6400 4400 6400
+Text Label 4400 6400 0    70   ~ 0
+SDIO_CK
+Wire Wire Line
+	5200 4400 4600 4400
+Text Label 4600 4400 0    70   ~ 0
+SDIO_D1
+Wire Wire Line
+	4800 6700 4400 6700
+Text Label 4400 6700 0    70   ~ 0
+SDIO_D1
+Wire Wire Line
+	5200 4500 4600 4500
+Text Label 4600 4500 0    70   ~ 0
+SDIO_D0
+Wire Wire Line
+	4800 6600 4400 6600
+Text Label 4400 6600 0    70   ~ 0
+SDIO_D0
+Wire Wire Line
+	1600 5400 1600 5300
+Wire Wire Line
+	1600 5300 1600 5200
+Wire Wire Line
+	2000 5300 1600 5300
+Wire Wire Line
+	1600 5300 1400 5300
+Wire Wire Line
+	1400 5400 1400 5300
+Connection ~ 1600 5300
+Text Label 1800 5300 0    70   ~ 0
+NRST
+Connection ~ 1400 5300
+Wire Wire Line
+	5200 2900 4600 2900
+Text Label 4600 2900 0    70   ~ 0
+NRST
+Wire Wire Line
+	12500 5100 12500 5800
+Text Label 12500 5800 1    70   ~ 0
+NRST
+Wire Wire Line
+	1300 2900 1400 2900
+Wire Wire Line
+	1400 3800 1200 3800
+Wire Wire Line
+	1400 3200 1300 3200
+Wire Wire Line
+	7900 2100 8500 2100
+Text Label 8000 2100 0    70   ~ 0
+USR_SW
+Wire Wire Line
+	4000 5300 4400 5300
+Text Label 4000 5300 0    70   ~ 0
+USR_SW
+Wire Wire Line
+	12000 3400 11200 3400
+Text Label 11200 3400 0    70   ~ 0
+USR_SW
+Wire Wire Line
+	9700 2400 9700 1600
+Wire Wire Line
+	9600 2500 9700 2500
+Wire Wire Line
+	9700 2500 9700 2400
+Wire Wire Line
+	9700 2400 10000 2400
+Wire Wire Line
+	9700 1600 9500 1600
+Text Label 9700 1900 0    70   ~ 0
+VUSB
+Connection ~ 9700 2400
+Wire Wire Line
+	9100 1000 8900 1000
+Text Label 8900 1000 0    70   ~ 0
+VUSB
+Wire Wire Line
+	4800 6800 4400 6800
+Text Label 4400 6800 0    70   ~ 0
+SDIO_SW
+Wire Wire Line
+	5200 4000 4600 4000
+Text Label 4600 4000 0    70   ~ 0
+SDIO_SW
+Wire Wire Line
+	8300 6600 7700 6600
+Text Label 7700 6600 0    70   ~ 0
+MMA_INT
+Wire Wire Line
+	7900 4500 8500 4500
+Text Label 8000 4500 0    70   ~ 0
+MMA_INT
+Wire Wire Line
+	12600 5100 12600 5800
+Text Label 12600 5800 1    70   ~ 0
+MMA_INT
+Wire Wire Line
+	9600 6600 10300 6600
+Wire Wire Line
+	10300 6600 10300 6400
+Wire Wire Line
+	10300 6600 10900 6600
+Text Label 10400 6600 0    70   ~ 0
+MMA_SCL
+Connection ~ 10300 6600
+Wire Wire Line
+	7900 4700 8500 4700
+Text Label 8000 4700 0    70   ~ 0
+MMA_SCL
+Wire Wire Line
+	12000 3900 11200 3900
+Text Label 11200 3900 0    70   ~ 0
+MMA_SCL
+Wire Wire Line
+	9600 6500 10100 6500
+Wire Wire Line
+	10100 6500 10900 6500
+Wire Wire Line
+	10100 6400 10100 6500
+Text Label 10400 6500 0    70   ~ 0
+MMA_SDA
+Connection ~ 10100 6500
+Wire Wire Line
+	7900 4600 8500 4600
+Text Label 8000 4600 0    70   ~ 0
+MMA_SDA
+Wire Wire Line
+	12000 4000 11200 4000
+Text Label 11200 4000 0    70   ~ 0
+MMA_SDA
+Wire Wire Line
+	5200 5000 4600 5000
+Text Label 4600 5000 0    70   ~ 0
+IO_PC3
+Wire Wire Line
+	13100 5100 13100 5800
+Text Label 13100 5800 1    70   ~ 0
+IO_PC3
+Wire Wire Line
+	5200 5100 4600 5100
+Text Label 4600 5100 0    70   ~ 0
+IO_PC2
+Wire Wire Line
+	13000 5100 13000 5800
+Text Label 13000 5800 1    70   ~ 0
+IO_PC2
+Wire Wire Line
+	5200 5200 4600 5200
+Text Label 4600 5200 0    70   ~ 0
+IO_PC1
+Wire Wire Line
+	12900 5100 12900 5800
+Text Label 12900 5800 1    70   ~ 0
+IO_PC1
+Wire Wire Line
+	5200 5300 4600 5300
+Text Label 4600 5300 0    70   ~ 0
+IO_PC0
+Wire Wire Line
+	12800 5100 12800 5800
+Text Label 12800 5800 1    70   ~ 0
+IO_PC0
+Wire Wire Line
+	7900 3000 8500 3000
+Text Label 8000 3000 0    70   ~ 0
+IO_PA4
+Wire Wire Line
+	14100 3700 14900 3700
+Text Label 14400 3700 0    70   ~ 0
+IO_PA4
+Wire Wire Line
+	7900 2900 8500 2900
+Text Label 8000 2900 0    70   ~ 0
+IO_PA5
+Wire Wire Line
+	14100 3600 14900 3600
+Text Label 14400 3600 0    70   ~ 0
+IO_PA5
+Wire Wire Line
+	7900 4200 8500 4200
+Text Label 8000 4200 0    70   ~ 0
+IO_PB11
+Wire Wire Line
+	14100 3000 14900 3000
+Text Label 14400 3000 0    70   ~ 0
+IO_PB11
+Wire Wire Line
+	2500 6400 3000 6400
+Text Label 2600 6400 0    70   ~ 0
+IO_PB11
+Wire Wire Line
+	7900 5000 8500 5000
+Text Label 8000 5000 0    70   ~ 0
+IO_PB3
+Wire Wire Line
+	12000 3700 11200 3700
+Text Label 11200 3700 0    70   ~ 0
+IO_PB3
+Wire Wire Line
+	7900 4900 8500 4900
+Text Label 8000 4900 0    70   ~ 0
+IO_PB4
+Wire Wire Line
+	12000 3800 11200 3800
+Text Label 11200 3800 0    70   ~ 0
+IO_PB4
+Wire Wire Line
+	7900 5100 8500 5100
+Text Label 8000 5100 0    70   ~ 0
+IO_PB2
+Wire Wire Line
+	2300 6200 3000 6200
+Text Label 2600 6200 0    70   ~ 0
+IO_PB2
+Wire Wire Line
+	5200 3000 4600 3000
+Text Label 4600 3000 0    70   ~ 0
+BOOT0
+Wire Wire Line
+	2300 7000 3000 7000
+Text Label 2600 7000 0    70   ~ 0
+BOOT0
+Wire Wire Line
+	12400 5100 12400 5800
+Text Label 12400 5800 1    70   ~ 0
+BOOT0
+Wire Wire Line
+	7900 4300 8500 4300
+Text Label 8000 4300 0    70   ~ 0
+IO_PB10
+Wire Wire Line
+	14100 3100 14900 3100
+Text Label 14400 3100 0    70   ~ 0
+IO_PB10
+Wire Wire Line
+	7900 5200 8500 5200
+Text Label 8000 5200 0    70   ~ 0
+IO_PB1
+Wire Wire Line
+	14100 3200 14900 3200
+Text Label 14400 3200 0    70   ~ 0
+IO_PB1
+Wire Wire Line
+	7900 5300 8500 5300
+Text Label 8000 5300 0    70   ~ 0
+IO_PB0
+Wire Wire Line
+	14100 3300 14900 3300
+Text Label 14400 3300 0    70   ~ 0
+IO_PB0
+Wire Wire Line
+	7900 4100 8500 4100
+Text Label 8000 4100 0    70   ~ 0
+IO_PB12
+Wire Wire Line
+	14100 2900 14900 2900
+Text Label 14400 2900 0    70   ~ 0
+IO_PB12
+Wire Wire Line
+	7900 4000 8500 4000
+Text Label 8000 4000 0    70   ~ 0
+IO_PB13
+Wire Wire Line
+	12000 2900 11200 2900
+Text Label 11200 2900 0    70   ~ 0
+IO_PB13
+Wire Wire Line
+	7900 3900 8500 3900
+Text Label 8000 3900 0    70   ~ 0
+IO_PB14
+Wire Wire Line
+	12000 3000 11200 3000
+Text Label 11200 3000 0    70   ~ 0
+IO_PB14
+Wire Wire Line
+	7900 3800 8500 3800
+Text Label 8000 3800 0    70   ~ 0
+IO_PB15
+Wire Wire Line
+	12000 3100 11200 3100
+Text Label 11200 3100 0    70   ~ 0
+IO_PB15
+Wire Wire Line
+	7900 3400 8500 3400
+Text Label 8000 3400 0    70   ~ 0
+IO_PA0
+Wire Wire Line
+	14100 5100 14900 5100
+Text Label 14400 5100 0    70   ~ 0
+IO_PA0
+Wire Wire Line
+	7900 3300 8500 3300
+Text Label 8000 3300 0    70   ~ 0
+IO_PA1
+Wire Wire Line
+	14100 4800 14900 4800
+Text Label 14400 4800 0    70   ~ 0
+IO_PA1
+Wire Wire Line
+	7900 3200 8500 3200
+Text Label 8000 3200 0    70   ~ 0
+IO_PA2
+Wire Wire Line
+	14100 4500 14900 4500
+Text Label 14400 4500 0    70   ~ 0
+IO_PA2
+Wire Wire Line
+	7900 3100 8500 3100
+Text Label 8000 3100 0    70   ~ 0
+IO_PA3
+Wire Wire Line
+	14100 4200 14900 4200
+Text Label 14400 4200 0    70   ~ 0
+IO_PA3
+Wire Wire Line
+	7900 2800 8500 2800
+Text Label 8000 2800 0    70   ~ 0
+IO_PA6
+Wire Wire Line
+	14100 3500 14900 3500
+Text Label 14400 3500 0    70   ~ 0
+IO_PA6
+Wire Wire Line
+	7900 2700 8500 2700
+Text Label 8000 2700 0    70   ~ 0
+IO_PA7
+Wire Wire Line
+	14100 3400 14900 3400
+Text Label 14400 3400 0    70   ~ 0
+IO_PA7
+Wire Wire Line
+	7900 2000 8500 2000
+Text Label 8000 2000 0    70   ~ 0
+IO_PA14
+Wire Wire Line
+	12000 3500 11200 3500
+Text Label 11200 3500 0    70   ~ 0
+IO_PA14
+Wire Wire Line
+	7900 1900 8500 1900
+Text Label 8000 1900 0    70   ~ 0
+IO_PA15
+Wire Wire Line
+	12000 3600 11200 3600
+Text Label 11200 3600 0    70   ~ 0
+IO_PA15
+Wire Wire Line
+	5200 3900 4000 3900
+Wire Wire Line
+	4000 3900 4000 4400
+Wire Wire Line
+	4000 4400 3800 4400
+Wire Wire Line
+	3800 4400 3600 4400
+Connection ~ 3800 4400
+Wire Wire Line
+	3600 4100 3800 4100
+Wire Wire Line
+	5200 3800 3800 3800
+Wire Wire Line
+	3800 3800 3800 4100
+Connection ~ 3800 4100
+Wire Wire Line
+	7900 4800 8500 4800
+Text Label 8000 4800 0    70   ~ 0
+MMA_AVDD
+Wire Wire Line
+	8300 6400 8100 6400
+Wire Wire Line
+	8100 6400 8100 5900
+Text Label 8100 6000 0    70   ~ 0
+MMA_AVDD
+Wire Wire Line
+	2500 6800 3000 6800
+Text Label 2600 6800 0    70   ~ 0
+MMA_AVDD
+Wire Wire Line
+	7300 5800 7300 6100
+Text Label 7300 5900 0    70   ~ 0
+MMA_AVDD
+Wire Wire Line
+	3600 3200 3800 3200
+Wire Wire Line
+	3800 3200 5200 3200
+Connection ~ 3800 3200
+Wire Wire Line
+	10200 1000 10000 1000
+Wire Wire Line
+	10200 1200 10000 1200
+Wire Wire Line
+	10000 1200 10000 1000
+Wire Wire Line
+	9500 1000 9400 1000
+Wire Wire Line
+	9500 1000 9500 1200
+Wire Wire Line
+	9500 1200 8900 1200
+Wire Wire Line
+	9500 1000 9800 1000
+Wire Wire Line
+	10000 1000 9800 1000
+Wire Wire Line
+	9800 1000 9800 1100
+Text Label 8900 1200 0    70   ~ 0
+VIN
+Connection ~ 9800 1000
+Connection ~ 10000 1000
+Connection ~ 9500 1000
+Wire Wire Line
+	14100 2700 14900 2700
+Text Label 14400 2700 0    70   ~ 0
+VIN
+Wire Wire Line
+	13400 4600 13700 4600
+Wire Wire Line
+	13700 4600 13700 4500
+Wire Wire Line
+	13700 4500 13700 4400
+Wire Wire Line
+	13700 4400 13700 4300
+Wire Wire Line
+	13700 4300 13700 4100
+Wire Wire Line
+	13400 4300 13700 4300
+Wire Wire Line
+	13400 4400 13700 4400
+Wire Wire Line
+	13400 4500 13700 4500
+Text Label 13700 4100 3    70   ~ 0
+VIN
+Connection ~ 13700 4500
+Connection ~ 13700 4400
+Connection ~ 13700 4300
+Wire Wire Line
+	9100 1600 8900 1600
+Text Label 8900 1600 0    70   ~ 0
+VIN
+Wire Wire Line
+	1400 3500 1200 3500
+Wire Wire Line
+	5200 4900 4600 4900
+Text Label 4600 4900 0    70   ~ 0
+LEDG1
+Wire Wire Line
+	1800 2900 2500 2900
+Text Label 2300 2900 0    70   ~ 0
+LEDG1
+Wire Wire Line
+	5200 4800 4600 4800
+Text Label 4600 4800 0    70   ~ 0
+LEDG2
+Wire Wire Line
+	1800 3500 2500 3500
+Text Label 2300 3500 0    70   ~ 0
+LEDG2
+Wire Wire Line
+	5200 4700 4600 4700
+Text Label 4600 4700 0    70   ~ 0
+IO_PC6
+Wire Wire Line
+	12000 3200 11200 3200
+Text Label 11200 3200 0    70   ~ 0
+IO_PC6
+Wire Wire Line
+	5200 4600 4600 4600
+Text Label 4600 4600 0    70   ~ 0
+IO_PC7
+Wire Wire Line
+	12000 3300 11200 3300
+Text Label 11200 3300 0    70   ~ 0
+IO_PC7
+Wire Wire Line
+	1800 3200 2500 3200
+Text Label 2300 3200 0    70   ~ 0
+LEDR1
+Wire Wire Line
+	7900 2600 8500 2600
+Text Label 8000 2600 0    70   ~ 0
+LEDR1
+Wire Wire Line
+	7900 2500 9200 2500
+Text Label 8000 2500 0    70   ~ 0
+FS_VUSB
+Wire Wire Line
+	7900 2400 8800 2400
+Wire Wire Line
+	8800 2400 8800 2100
+Wire Wire Line
+	8800 2100 8900 2100
+Text Label 8000 2400 0    70   ~ 0
+LEDR2
+Wire Wire Line
+	1800 3800 2500 3800
+Text Label 2300 3800 0    70   ~ 0
+LEDR2
+Wire Wire Line
+	7900 4400 8500 4400
+Text Label 8000 4400 0    70   ~ 0
+IO_PB9
+Wire Wire Line
+	12700 5100 12700 5800
+Text Label 12700 5800 1    70   ~ 0
+IO_PB9
+Wire Wire Line
+	9300 2300 10000 2300
+Wire Wire Line
+	9300 2100 10000 2100
+Wire Wire Line
+	3400 5400 3400 5300
+Wire Wire Line
+	3400 5300 3600 5300
+Connection ~ 3400 5300
+$Comp
+L pyboard-eagle-import:GND #GND01
+U 1 0 6F68935FDB8695AC
+P 9900 2700
+F 0 "#GND01" H 9900 2700 50  0001 C CNN
+F 1 "GND" H 9800 2600 59  0000 L BNN
+F 2 "" H 9900 2700 50  0001 C CNN
+F 3 "" H 9900 2700 50  0001 C CNN
+	1    9900 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND03
+U 1 0 21A7002F7679BDCC
+P 4000 2800
+F 0 "#GND03" H 4000 2800 50  0001 C CNN
+F 1 "GND" H 3900 2700 59  0000 L BNN
+F 2 "" H 4000 2800 50  0001 C CNN
+F 3 "" H 4000 2800 50  0001 C CNN
+	1    4000 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND04
+U 1 0 4B4BE4C0D896219B
+P 4400 2800
+F 0 "#GND04" H 4400 2800 50  0001 C CNN
+F 1 "GND" H 4300 2700 59  0000 L BNN
+F 2 "" H 4400 2800 50  0001 C CNN
+F 3 "" H 4400 2800 50  0001 C CNN
+	1    4400 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V01
+U 1 0 B2DE5E0C406B5002
+P 4700 1100
+F 0 "#+3V01" H 4700 1100 50  0001 C CNN
+F 1 "+3V3" V 4600 900 59  0000 L BNN
+F 2 "" H 4700 1100 50  0001 C CNN
+F 3 "" H 4700 1100 50  0001 C CNN
+	1    4700 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:STM32F405RT IC1
+U 1 0 7C8C299E06F92037
+P 6500 3600
+F 0 "IC1" H 7600 5800 73  0000 R BNN
+F 1 "STM32F405RT" H 7600 5700 73  0000 R BNN
+F 2 "pyboard:LQFP64" H 6500 3600 50  0001 C CNN
+F 3 "" H 6500 3600 50  0001 C CNN
+	1    6500 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R1
+U 1 0 812E9AB79C64069D
+P 9100 2300
+F 0 "R1" H 8950 2359 59  0000 L BNN
+F 1 "22" H 8950 2170 59  0000 L BNN
+F 2 "pyboard:R0603" H 9100 2300 50  0001 C CNN
+F 3 "" H 9100 2300 50  0001 C CNN
+	1    9100 2300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R2
+U 1 0 B05539ADA4623408
+P 9400 2200
+F 0 "R2" H 9250 2259 59  0000 L BNN
+F 1 "22" H 9250 2070 59  0000 L BNN
+F 2 "pyboard:R0603" H 9400 2200 50  0001 C CNN
+F 3 "" H 9400 2200 50  0001 C CNN
+	1    9400 2200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C3
+U 1 0 C6DC1DB80AE61553
+P 900 1500
+F 0 "C3" H 960 1515 59  0000 L BNN
+F 1 "100n" H 960 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 900 1500 50  0001 C CNN
+F 3 "" H 900 1500 50  0001 C CNN
+	1    900  1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V02
+U 1 0 9A50822337D36547
+P 900 1100
+F 0 "#+3V02" H 900 1100 50  0001 C CNN
+F 1 "+3V3" V 800 900 59  0000 L BNN
+F 2 "" H 900 1100 50  0001 C CNN
+F 3 "" H 900 1100 50  0001 C CNN
+	1    900  1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND05
+U 1 0 D2D9FA1DEF27308A
+P 900 2000
+F 0 "#GND05" H 900 2000 50  0001 C CNN
+F 1 "GND" H 800 1900 59  0000 L BNN
+F 2 "" H 900 2000 50  0001 C CNN
+F 3 "" H 900 2000 50  0001 C CNN
+	1    900  2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C4
+U 1 0 26C241BB284EA6E9
+P 1300 1500
+F 0 "C4" H 1360 1515 59  0000 L BNN
+F 1 "100n" H 1360 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 1300 1500 50  0001 C CNN
+F 3 "" H 1300 1500 50  0001 C CNN
+	1    1300 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C5
+U 1 0 E528C515F9108C4C
+P 1700 1500
+F 0 "C5" H 1760 1515 59  0000 L BNN
+F 1 "100n" H 1760 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 1700 1500 50  0001 C CNN
+F 3 "" H 1700 1500 50  0001 C CNN
+	1    1700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C6
+U 1 0 9F272910FE64C8E2
+P 2100 1500
+F 0 "C6" H 2160 1515 59  0000 L BNN
+F 1 "100n" H 2160 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 2100 1500 50  0001 C CNN
+F 3 "" H 2100 1500 50  0001 C CNN
+	1    2100 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C8
+U 1 0 61919A92621C301E
+P 3000 1500
+F 0 "C8" H 3060 1515 59  0000 L BNN
+F 1 "100n" H 3060 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 3000 1500 50  0001 C CNN
+F 3 "" H 3000 1500 50  0001 C CNN
+	1    3000 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C9
+U 1 0 15F3A8BA27EB63CA
+P 3500 1500
+F 0 "C9" H 3560 1515 59  0000 L BNN
+F 1 "100n" H 3560 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 3500 1500 50  0001 C CNN
+F 3 "" H 3500 1500 50  0001 C CNN
+	1    3500 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C1
+U 1 0 1E637AAF46C190EE
+P 3400 3200
+F 0 "C1" H 3460 3215 59  0000 L BNN
+F 1 "12p" H 3460 3015 59  0000 L BNN
+F 2 "pyboard:C0603" H 3400 3200 50  0001 C CNN
+F 3 "" H 3400 3200 50  0001 C CNN
+	1    3400 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C2
+U 1 0 995499CD0E44AECD
+P 3400 3500
+F 0 "C2" H 3460 3515 59  0000 L BNN
+F 1 "12p" H 3460 3315 59  0000 L BNN
+F 2 "pyboard:C0603" H 3400 3500 50  0001 C CNN
+F 3 "" H 3400 3500 50  0001 C CNN
+	1    3400 3500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND06
+U 1 0 714A278CA07C0193
+P 3200 3700
+F 0 "#GND06" H 3200 3700 50  0001 C CNN
+F 1 "GND" H 3100 3600 59  0000 L BNN
+F 2 "" H 3200 3700 50  0001 C CNN
+F 3 "" H 3200 3700 50  0001 C CNN
+	1    3200 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C10
+U 1 0 60CE5620869C3225
+P 3900 1500
+F 0 "C10" H 3960 1515 59  0000 L BNN
+F 1 "1u" H 3960 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 3900 1500 50  0001 C CNN
+F 3 "" H 3900 1500 50  0001 C CNN
+	1    3900 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C7
+U 1 0 68ECEA192F2EB72D
+P 2500 1500
+F 0 "C7" H 2560 1515 59  0000 L BNN
+F 1 "4u7" H 2560 1315 59  0000 L BNN
+F 2 "pyboard:C0603" H 2500 1500 50  0001 C CNN
+F 3 "" H 2500 1500 50  0001 C CNN
+	1    2500 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND07
+U 1 0 C51381239CDE76EF
+P 900 5900
+F 0 "#GND07" H 900 5900 50  0001 C CNN
+F 1 "GND" H 800 5800 59  0000 L BNN
+F 2 "" H 900 5900 50  0001 C CNN
+F 3 "" H 900 5900 50  0001 C CNN
+	1    900  5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V03
+U 1 0 39E80044A56F219E
+P 1600 4600
+F 0 "#+3V03" H 1600 4600 50  0001 C CNN
+F 1 "+3V3" V 1500 4400 59  0000 L BNN
+F 2 "" H 1600 4600 50  0001 C CNN
+F 3 "" H 1600 4600 50  0001 C CNN
+	1    1600 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R3
+U 1 0 DF24997026020ECB
+P 1600 5000
+F 0 "R3" H 1450 5059 59  0000 L BNN
+F 1 "10k" H 1450 4870 59  0000 L BNN
+F 2 "pyboard:R0603" H 1600 5000 50  0001 C CNN
+F 3 "" H 1600 5000 50  0001 C CNN
+	1    1600 5000
+	0    -1   1    0   
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND08
+U 1 0 167E2C6ADF24F9E8
+P 1600 5900
+F 0 "#GND08" H 1600 5900 50  0001 C CNN
+F 1 "GND" H 1500 5800 59  0000 L BNN
+F 2 "" H 1600 5900 50  0001 C CNN
+F 3 "" H 1600 5900 50  0001 C CNN
+	1    1600 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R4
+U 1 0 F5019D5F0267F19E
+P 1600 2900
+F 0 "R4" H 1450 2959 59  0000 L BNN
+F 1 "560" H 1450 2770 59  0000 L BNN
+F 2 "pyboard:R0603" H 1600 2900 50  0001 C CNN
+F 3 "" H 1600 2900 50  0001 C CNN
+	1    1600 2900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V04
+U 1 0 39A60254E81106EE
+P 900 2500
+F 0 "#+3V04" H 900 2500 50  0001 C CNN
+F 1 "+3V3" V 800 2300 59  0000 L BNN
+F 2 "" H 900 2500 50  0001 C CNN
+F 3 "" H 900 2500 50  0001 C CNN
+	1    900  2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C12B1
+U 1 0 F758C643A7089562
+P 4000 2400
+F 0 "C12B1" H 4060 2415 59  0000 L BNN
+F 1 "2u2" H 4060 2215 59  0000 L BNN
+F 2 "pyboard:C0603" H 4000 2400 50  0001 C CNN
+F 3 "" H 4000 2400 50  0001 C CNN
+	1    4000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C11B1
+U 1 0 D1817DC85C2FD3DD
+P 3600 2400
+F 0 "C11B1" H 3660 2415 59  0000 L BNN
+F 1 "2u2" H 3660 2215 59  0000 L BNN
+F 2 "pyboard:C0603" H 3600 2400 50  0001 C CNN
+F 3 "" H 3600 2400 50  0001 C CNN
+	1    3600 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND09
+U 1 0 92D8EA4928DF91D
+P 3600 2800
+F 0 "#GND09" H 3600 2800 50  0001 C CNN
+F 1 "GND" H 3500 2700 59  0000 L BNN
+F 2 "" H 3600 2800 50  0001 C CNN
+F 3 "" H 3600 2800 50  0001 C CNN
+	1    3600 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R5
+U 1 0 4DE359069DDF1806
+P 1600 3800
+F 0 "R5" H 1450 3859 59  0000 L BNN
+F 1 "560" H 1450 3670 59  0000 L BNN
+F 2 "pyboard:R0603" H 1600 3800 50  0001 C CNN
+F 3 "" H 1600 3800 50  0001 C CNN
+	1    1600 3800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R6
+U 1 0 6E2D95C90C5C1A5B
+P 1600 3200
+F 0 "R6" H 1450 3259 59  0000 L BNN
+F 1 "560" H 1450 3070 59  0000 L BNN
+F 2 "pyboard:R0603" H 1600 3200 50  0001 C CNN
+F 3 "" H 1600 3200 50  0001 C CNN
+	1    1600 3200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R7
+U 1 0 6D2B2EABF6BAD4DE
+P 1600 3500
+F 0 "R7" H 1450 3559 59  0000 L BNN
+F 1 "560" H 1450 3370 59  0000 L BNN
+F 2 "pyboard:R0603" H 1600 3500 50  0001 C CNN
+F 3 "" H 1600 3500 50  0001 C CNN
+	1    1600 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C13
+U 1 0 2958F4AE9AFB8C1C
+P 1600 5500
+F 0 "C13" H 1660 5515 59  0000 L BNN
+F 1 "100n" H 1660 5315 59  0000 L BNN
+F 2 "pyboard:C0603" H 1600 5500 50  0001 C CNN
+F 3 "" H 1600 5500 50  0001 C CNN
+	1    1600 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:KMR4TACTILE U$2
+U 1 0 AA898CC2A8B04D1A
+P 1100 5300
+F 0 "U$2" H 980 5490 59  0000 L BNN
+F 1 "KMR4TACTILE" H 950 5080 59  0000 L BNN
+F 2 "pyboard:KMR4SWITCH" H 1100 5300 50  0001 C CNN
+F 3 "" H 1100 5300 50  0001 C CNN
+	1    1100 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:KMR4TACTILE U$3
+U 1 0 93CD699454307519
+P 3100 5300
+F 0 "U$3" H 2980 5490 59  0000 L BNN
+F 1 "KMR4TACTILE" H 2950 5080 59  0000 L BNN
+F 2 "pyboard:KMR4SWITCH" H 3100 5300 50  0001 C CNN
+F 3 "" H 3100 5300 50  0001 C CNN
+	1    3100 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND011
+U 1 0 25F2C17319DA8D48
+P 2900 5900
+F 0 "#GND011" H 2900 5900 50  0001 C CNN
+F 1 "GND" H 2800 5800 59  0000 L BNN
+F 2 "" H 2900 5900 50  0001 C CNN
+F 3 "" H 2900 5900 50  0001 C CNN
+	1    2900 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:MOLEX-SD-105027 U$4
+U 1 0 4E25407E84E86E02
+P 5600 6400
+F 0 "U$4" H 5600 6400 50  0001 C CNN
+F 1 "MOLEX-SD-105027" H 5600 6400 50  0001 C CNN
+F 2 "pyboard:MOLEX-SD-105027-PKG" H 5600 6400 50  0001 C CNN
+F 3 "" H 5600 6400 50  0001 C CNN
+	1    5600 6400
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND012
+U 1 0 E034864A5F18D96
+P 4200 6900
+F 0 "#GND012" H 4200 6900 50  0001 C CNN
+F 1 "GND" H 4100 6800 59  0000 L BNN
+F 2 "" H 4200 6900 50  0001 C CNN
+F 3 "" H 4200 6900 50  0001 C CNN
+	1    4200 6900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V06
+U 1 0 D67E96A0F50F61D1
+P 4200 5900
+F 0 "#+3V06" H 4200 5900 50  0001 C CNN
+F 1 "+3V3" V 4100 5700 59  0000 L BNN
+F 2 "" H 4200 5900 50  0001 C CNN
+F 3 "" H 4200 5900 50  0001 C CNN
+	1    4200 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:MMA7660 U$5
+U 1 0 1A1EF776A689A17
+P 8900 6500
+F 0 "U$5" H 8900 6500 50  0001 C CNN
+F 1 "MMA7660" H 8900 6500 50  0001 C CNN
+F 2 "pyboard:DFN10" H 8900 6500 50  0001 C CNN
+F 3 "" H 8900 6500 50  0001 C CNN
+	1    8900 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V08
+U 1 0 103CA66A1B9F338C
+P 9800 5800
+F 0 "#+3V08" H 9800 5800 50  0001 C CNN
+F 1 "+3V3" V 9700 5600 59  0000 L BNN
+F 2 "" H 9800 5800 50  0001 C CNN
+F 3 "" H 9800 5800 50  0001 C CNN
+	1    9800 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND013
+U 1 0 1DDAFC179E3D6951
+P 9700 6900
+F 0 "#GND013" H 9700 6900 50  0001 C CNN
+F 1 "GND" H 9600 6800 59  0000 L BNN
+F 2 "" H 9700 6900 50  0001 C CNN
+F 3 "" H 9700 6900 50  0001 C CNN
+	1    9700 6900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND014
+U 1 0 E847186D109F320A
+P 8200 6900
+F 0 "#GND014" H 8200 6900 50  0001 C CNN
+F 1 "GND" H 8100 6800 59  0000 L BNN
+F 2 "" H 8200 6900 50  0001 C CNN
+F 3 "" H 8200 6900 50  0001 C CNN
+	1    8200 6900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V09
+U 1 0 1C7DDDA921780286
+P 6900 5800
+F 0 "#+3V09" H 6900 5800 50  0001 C CNN
+F 1 "+3V3" V 6800 5600 59  0000 L BNN
+F 2 "" H 6900 5800 50  0001 C CNN
+F 3 "" H 6900 5800 50  0001 C CNN
+	1    6900 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND015
+U 1 0 CBE454F257B06B4
+P 6900 6700
+F 0 "#GND015" H 6900 6700 50  0001 C CNN
+F 1 "GND" H 6800 6600 59  0000 L BNN
+F 2 "" H 6900 6700 50  0001 C CNN
+F 3 "" H 6900 6700 50  0001 C CNN
+	1    6900 6700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C14
+U 1 0 B686F7E37E2E4EF0
+P 6900 6200
+F 0 "C14" H 6960 6215 59  0000 L BNN
+F 1 "100n" H 6960 6015 59  0000 L BNN
+F 2 "pyboard:C0603" H 6900 6200 50  0001 C CNN
+F 3 "" H 6900 6200 50  0001 C CNN
+	1    6900 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C15
+U 1 0 93AE8ABD9DEF2EB6
+P 7300 6200
+F 0 "C15" H 7360 6215 59  0000 L BNN
+F 1 "100n" H 7360 6015 59  0000 L BNN
+F 2 "pyboard:C0603" H 7300 6200 50  0001 C CNN
+F 3 "" H 7300 6200 50  0001 C CNN
+	1    7300 6200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R8
+U 1 0 D6AF39751532A32
+P 10100 6200
+F 0 "R8" H 9950 6259 59  0000 L BNN
+F 1 "4k7" H 9950 6070 59  0000 L BNN
+F 2 "pyboard:R0603" H 10100 6200 50  0001 C CNN
+F 3 "" H 10100 6200 50  0001 C CNN
+	1    10100 6200
+	0    -1   1    0   
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R9
+U 1 0 5EA823354D61312F
+P 10300 6200
+F 0 "R9" H 10150 6259 59  0000 L BNN
+F 1 "4k7" H 10150 6070 59  0000 L BNN
+F 2 "pyboard:R0603" H 10300 6200 50  0001 C CNN
+F 3 "" H 10300 6200 50  0001 C CNN
+	1    10300 6200
+	0    -1   1    0   
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V010
+U 1 0 E3BCC1F17D3B51B6
+P 10100 5800
+F 0 "#+3V010" H 10100 5800 50  0001 C CNN
+F 1 "+3V3" V 10000 5600 59  0000 L BNN
+F 2 "" H 10100 5800 50  0001 C CNN
+F 3 "" H 10100 5800 50  0001 C CNN
+	1    10100 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V011
+U 1 0 FBAD31F12B08D267
+P 10300 5800
+F 0 "#+3V011" H 10300 5800 50  0001 C CNN
+F 1 "+3V3" V 10200 5600 59  0000 L BNN
+F 2 "" H 10300 5800 50  0001 C CNN
+F 3 "" H 10300 5800 50  0001 C CNN
+	1    10300 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V012
+U 1 0 EBFBA6CEB115A5D5
+P 3000 1100
+F 0 "#+3V012" H 3000 1100 50  0001 C CNN
+F 1 "+3V3" V 2900 900 59  0000 L BNN
+F 2 "" H 3000 1100 50  0001 C CNN
+F 3 "" H 3000 1100 50  0001 C CNN
+	1    3000 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND016
+U 1 0 8316678299D4D269
+P 3000 2000
+F 0 "#GND016" H 3000 2000 50  0001 C CNN
+F 1 "GND" H 2900 1900 59  0000 L BNN
+F 2 "" H 3000 2000 50  0001 C CNN
+F 3 "" H 3000 2000 50  0001 C CNN
+	1    3000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V013
+U 1 0 C7612660D8A568C3
+P 3500 1100
+F 0 "#+3V013" H 3500 1100 50  0001 C CNN
+F 1 "+3V3" V 3400 900 59  0000 L BNN
+F 2 "" H 3500 1100 50  0001 C CNN
+F 3 "" H 3500 1100 50  0001 C CNN
+	1    3500 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND02
+U 1 0 350FEA2913A376EC
+P 3500 2000
+F 0 "#GND02" H 3500 2000 50  0001 C CNN
+F 1 "GND" H 3400 1900 59  0000 L BNN
+F 2 "" H 3500 2000 50  0001 C CNN
+F 3 "" H 3500 2000 50  0001 C CNN
+	1    3500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R10
+U 1 0 C0FB71F3F8870A87
+P 9400 2500
+F 0 "R10" H 9250 2559 59  0000 L BNN
+F 1 "1k" H 9250 2370 59  0000 L BNN
+F 2 "pyboard:R0603" H 9400 2500 50  0001 C CNN
+F 3 "" H 9400 2500 50  0001 C CNN
+	1    9400 2500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C11
+U 1 0 5F5896C3E2B1A30
+P 3400 4100
+F 0 "C11" H 3460 4115 59  0000 L BNN
+F 1 "12p" H 3460 3915 59  0000 L BNN
+F 2 "pyboard:C0603" H 3400 4100 50  0001 C CNN
+F 3 "" H 3400 4100 50  0001 C CNN
+	1    3400 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C12
+U 1 0 624B623F3568B36D
+P 3400 4400
+F 0 "C12" H 3460 4415 59  0000 L BNN
+F 1 "12p" H 3460 4215 59  0000 L BNN
+F 2 "pyboard:C0603" H 3400 4400 50  0001 C CNN
+F 3 "" H 3400 4400 50  0001 C CNN
+	1    3400 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND010
+U 1 0 F47101845C69E3
+P 3200 4600
+F 0 "#GND010" H 3200 4600 50  0001 C CNN
+F 1 "GND" H 3100 4500 59  0000 L BNN
+F 2 "" H 3200 4600 50  0001 C CNN
+F 3 "" H 3200 4600 50  0001 C CNN
+	1    3200 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:TXC-CRYSTAL50X32 Q1
+U 1 0 671962AC2AFD6247
+P 3800 3400
+F 0 "Q1" H 3740 3500 59  0000 L BNN
+F 1 "8MHz" H 3730 3240 59  0000 L BNN
+F 2 "pyboard:TXC-SMD-50X32" H 3800 3400 50  0001 C CNN
+F 3 "" H 3800 3400 50  0001 C CNN
+	1    3800 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:TXC-CRYSTAL32X15 Q2
+U 1 0 48451787D469BD82
+P 3800 4300
+F 0 "Q2" H 3740 4400 59  0000 L BNN
+F 1 "32.768kHz" H 3730 4140 59  0000 L BNN
+F 2 "pyboard:TXC-SMD-32X15" H 3800 4300 50  0001 C CNN
+F 3 "" H 3800 4300 50  0001 C CNN
+	1    3800 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:MCP1802 U1
+U 1 0 B89026D3F9562130
+P 10600 1100
+F 0 "U1" H 10500 1300 42  0000 L BNN
+F 1 "MCP1802" H 10500 800 42  0000 L BNN
+F 2 "pyboard:SOT-23-5" H 10600 1100 50  0001 C CNN
+F 3 "" H 10600 1100 50  0001 C CNN
+	1    10600 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C16
+U 1 0 6DE9B6B3DB0315DD
+P 9800 1200
+F 0 "C16" H 9860 1215 59  0000 L BNN
+F 1 "1u" H 9860 1015 59  0000 L BNN
+F 2 "pyboard:C0603" H 9800 1200 50  0001 C CNN
+F 3 "" H 9800 1200 50  0001 C CNN
+	1    9800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:C-EUC0603 C17
+U 1 0 D57FB5F10136F303
+P 11300 1200
+F 0 "C17" H 11360 1215 59  0000 L BNN
+F 1 "1u" H 11360 1015 59  0000 L BNN
+F 2 "pyboard:C0603" H 11300 1200 50  0001 C CNN
+F 3 "" H 11300 1200 50  0001 C CNN
+	1    11300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND017
+U 1 0 A9D98BED0A5A0AC8
+P 10100 1500
+F 0 "#GND017" H 10100 1500 50  0001 C CNN
+F 1 "GND" H 10000 1400 59  0000 L BNN
+F 2 "" H 10100 1500 50  0001 C CNN
+F 3 "" H 10100 1500 50  0001 C CNN
+	1    10100 1500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND018
+U 1 0 15FCDF69E0081D19
+P 9800 1500
+F 0 "#GND018" H 9800 1500 50  0001 C CNN
+F 1 "GND" H 9700 1400 59  0000 L BNN
+F 2 "" H 9800 1500 50  0001 C CNN
+F 3 "" H 9800 1500 50  0001 C CNN
+	1    9800 1500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:+3V3 #+3V07
+U 1 0 6BD379B2A36165E5
+P 11700 800
+F 0 "#+3V07" H 11700 800 50  0001 C CNN
+F 1 "+3V3" V 11600 600 59  0000 L BNN
+F 2 "" H 11700 800 50  0001 C CNN
+F 3 "" H 11700 800 50  0001 C CNN
+	1    11700 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND019
+U 1 0 906FD9F448B3EBD8
+P 11300 1600
+F 0 "#GND019" H 11300 1600 50  0001 C CNN
+F 1 "GND" H 11200 1500 59  0000 L BNN
+F 2 "" H 11300 1600 50  0001 C CNN
+F 3 "" H 11300 1600 50  0001 C CNN
+	1    11300 1600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:1N5819 D1
+U 1 0 BE5F3F048D141E84
+P 9200 1000
+F 0 "D1" H 9200 800 42  0000 L BNN
+F 1 "1N5819" H 9200 1100 42  0000 L BNN
+F 2 "pyboard:SOD-123" H 9200 1000 50  0001 C CNN
+F 3 "" H 9200 1000 50  0001 C CNN
+	1    9200 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R11
+U 1 0 F90901174EA54AE4
+P 2100 6200
+F 0 "R11" H 1950 6259 59  0000 L BNN
+F 1 "1k" H 1950 6070 59  0000 L BNN
+F 2 "pyboard:R0603" H 2100 6200 50  0001 C CNN
+F 3 "" H 2100 6200 50  0001 C CNN
+	1    2100 6200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R12
+U 1 0 39E956119B631616
+P 2300 6400
+F 0 "R12" H 2150 6459 59  0000 L BNN
+F 1 "100k" H 2150 6270 59  0000 L BNN
+F 2 "pyboard:R0603" H 2300 6400 50  0001 C CNN
+F 3 "" H 2300 6400 50  0001 C CNN
+	1    2300 6400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R13
+U 1 0 9194091FEB134512
+P 2100 6600
+F 0 "R13" H 1950 6659 59  0000 L BNN
+F 1 "10M" H 1950 6470 59  0000 L BNN
+F 2 "pyboard:R0603" H 2100 6600 50  0001 C CNN
+F 3 "" H 2100 6600 50  0001 C CNN
+	1    2100 6600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R14
+U 1 0 96343D96B042223A
+P 2300 6800
+F 0 "R14" H 2150 6859 59  0000 L BNN
+F 1 "100k" H 2150 6670 59  0000 L BNN
+F 2 "pyboard:R0603" H 2300 6800 50  0001 C CNN
+F 3 "" H 2300 6800 50  0001 C CNN
+	1    2300 6800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R15
+U 1 0 D6D766EE14EAF52B
+P 2100 7000
+F 0 "R15" H 1950 7059 59  0000 L BNN
+F 1 "100k" H 1950 6870 59  0000 L BNN
+F 2 "pyboard:R0603" H 2100 7000 50  0001 C CNN
+F 3 "" H 2100 7000 50  0001 C CNN
+	1    2100 7000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND020
+U 1 0 1D4613EF2DF12463
+P 1800 7300
+F 0 "#GND020" H 1800 7300 50  0001 C CNN
+F 1 "GND" H 1700 7200 59  0000 L BNN
+F 2 "" H 1800 7300 50  0001 C CNN
+F 3 "" H 1800 7300 50  0001 C CNN
+	1    1800 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:LTST-C195KGJRKT U$1
+U 1 0 850A8AB0BABD3B23
+P 1200 3100
+F 0 "U$1" H 1200 3330 59  0000 L BNN
+F 1 "LTST-C195KGJRKT" H 1200 3415 59  0000 L BNN
+F 2 "pyboard:LTST-BILED-15X16" H 1200 3100 50  0001 C CNN
+F 3 "" H 1200 3100 50  0001 C CNN
+	1    1200 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:LTST-C195KGJRKT U$6
+U 1 0 DFAA916C371C5F19
+P 1100 3700
+F 0 "U$6" H 1100 3930 59  0000 L BNN
+F 1 "LTST-C195KGJRKT" H 1100 4015 59  0000 L BNN
+F 2 "pyboard:LTST-BILED-15X16" H 1100 3700 50  0001 C CNN
+F 3 "" H 1100 3700 50  0001 C CNN
+	1    1100 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:USB-MICRO-AB U$7
+U 1 0 98B41398BE1960E8
+P 10100 2200
+F 0 "U$7" H 10100 2200 50  0001 C CNN
+F 1 "USB-MICRO-AB" H 10100 2200 50  0001 C CNN
+F 2 "pyboard:HRS-USB-ZX62D-AB-5P8-PKG" H 10100 2200 50  0001 C CNN
+F 3 "" H 10100 2200 50  0001 C CNN
+	1    10100 2200
+	1    0    0    1   
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X1 JBL1
+U 1 0 D1F42EC7193F02C
+P 12100 4700
+F 0 "JBL1" H 11850 4825 59  0000 L BNN
+F 1 "1" H 11850 4500 59  0000 L BNN
+F 2 "pyboard:1X01" H 12100 4700 50  0001 C CNN
+F 3 "" H 12100 4700 50  0001 C CNN
+	1    12100 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X1 JBR4
+U 1 0 F8CFB5730782318B
+P 14000 5100
+F 0 "JBR4" H 13750 5225 59  0000 L BNN
+F 1 "1" H 13750 4900 59  0000 L BNN
+F 2 "pyboard:1X01" H 14000 5100 50  0001 C CNN
+F 3 "" H 14000 5100 50  0001 C CNN
+	1    14000 5100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-2X4 JPOW1
+U 1 0 EB9C3149CEB03911
+P 13200 4500
+F 0 "JPOW1" H 12950 4825 59  0000 L BNN
+F 1 "8" H 12950 4200 59  0000 L BNN
+F 2 "pyboard:2X04" H 13200 4500 50  0001 C CNN
+F 3 "" H 13200 4500 50  0001 C CNN
+	1    13200 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X8 JBOT1
+U 1 0 CE9C744026517224
+P 12800 5000
+F 0 "JBOT1" H 12550 5525 59  0000 L BNN
+F 1 "8" H 12550 4500 59  0000 L BNN
+F 2 "pyboard:1X08" H 12800 5000 50  0001 C CNN
+F 3 "" H 12800 5000 50  0001 C CNN
+	1    12800 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X1 JBR3
+U 1 0 A86C6A871883D2CC
+P 14000 4800
+F 0 "JBR3" H 13750 4925 59  0000 L BNN
+F 1 "1" H 13750 4600 59  0000 L BNN
+F 2 "pyboard:1X01" H 14000 4800 50  0001 C CNN
+F 3 "" H 14000 4800 50  0001 C CNN
+	1    14000 4800
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X1 JBR2
+U 1 0 E0DCC35E9356FD4E
+P 14000 4500
+F 0 "JBR2" H 13750 4625 59  0000 L BNN
+F 1 "1" H 13750 4300 59  0000 L BNN
+F 2 "pyboard:1X01" H 14000 4500 50  0001 C CNN
+F 3 "" H 14000 4500 50  0001 C CNN
+	1    14000 4500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X1 JBR1
+U 1 0 7D4F44E8B042DC29
+P 14000 4200
+F 0 "JBR1" H 13750 4325 59  0000 L BNN
+F 1 "1" H 13750 4000 59  0000 L BNN
+F 2 "pyboard:1X01" H 14000 4200 50  0001 C CNN
+F 3 "" H 14000 4200 50  0001 C CNN
+	1    14000 4200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X14 JLEFT1
+U 1 0 E9055354AF097318
+P 12100 3300
+F 0 "JLEFT1" H 11850 4025 59  0000 L BNN
+F 1 "14" H 11850 2400 59  0000 L BNN
+F 2 "pyboard:1X14" H 12100 3300 50  0001 C CNN
+F 3 "" H 12100 3300 50  0001 C CNN
+	1    12100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:PINHD-1X11 JRIGHT1
+U 1 0 F7A6E203C4E677F9
+P 14000 3200
+F 0 "JRIGHT1" H 13750 3825 59  0000 L BNN
+F 1 "11" H 13750 2500 59  0000 L BNN
+F 2 "pyboard:1X11" H 14000 3200 50  0001 C CNN
+F 3 "" H 14000 3200 50  0001 C CNN
+	1    14000 3200
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:GND #GND021
+U 1 0 C987055BCF593DC2
+P 7300 6700
+F 0 "#GND021" H 7300 6700 50  0001 C CNN
+F 1 "GND" H 7200 6600 59  0000 L BNN
+F 2 "" H 7300 6700 50  0001 C CNN
+F 3 "" H 7300 6700 50  0001 C CNN
+	1    7300 6700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R16
+U 1 0 D05DB5BDD5A37160
+P 9100 2100
+F 0 "R16" H 8950 2159 59  0000 L BNN
+F 1 "0" H 8950 1970 59  0000 L BNN
+F 2 "pyboard:R0603" H 9100 2100 50  0001 C CNN
+F 3 "" H 9100 2100 50  0001 C CNN
+	1    9100 2100
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0603 R17
+U 1 0 FEC67141DB79B4F3
+P 3800 5300
+F 0 "R17" H 3650 5359 59  0000 L BNN
+F 1 "10k" H 3650 5170 59  0000 L BNN
+F 2 "pyboard:R0603" H 3800 5300 50  0001 C CNN
+F 3 "" H 3800 5300 50  0001 C CNN
+	1    3800 5300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L pyboard-eagle-import:R-EU_R0805 R18
+U 1 0 A49091B96A01F8EC
+P 9300 1600
+F 0 "R18" H 9150 1659 59  0000 L BNN
+F 1 "0" H 9150 1470 59  0000 L BNN
+F 2 "pyboard:R0805" H 9300 1600 50  0001 C CNN
+F 3 "" H 9300 1600 50  0001 C CNN
+	1    9300 1600
+	1    0    0    -1  
+$EndComp
+Text Notes 3700 1100 0    59   ~ 0
+Analog
+Text Notes 2600 7300 0    59   ~ 0
+DFU boot
+Text Notes 7100 5700 0    59   ~ 0
+MMA
+Text Notes 2900 900  0    59   ~ 0
+VBAT
+Text Notes 1200 1000 0    59   ~ 0
+VDD
+Text Notes 9100 3300 0    59   ~ 0
+R16 and R18 are unpopulated.\nUsed for optional USB OTG support.
+$EndSCHEMATC

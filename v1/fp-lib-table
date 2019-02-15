@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pyboard)(type KiCad)(uri "$(KIPRJMOD)/pyboard.pretty")(options "")(descr ""))
+)
